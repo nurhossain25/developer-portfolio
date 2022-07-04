@@ -24,6 +24,10 @@ section {
     width: 40%;
 }
 
+.half-width img {
+    width: 90%;
+}
+
 .link-button {
     text-decoration: none;
     background-color: orange;
